@@ -1,0 +1,32 @@
+#navbar-brand{
+    color: #ff908b;
+}
+
+#main-content{
+    margin-top: 6em;
+}
+
+body{
+    background-color: #E9ECEF;
+}
+
+.main-header{
+    color: #ff9b97;
+}
+
+.card{
+    margin: 1em;
+}
+
+#products-header{
+    color:#FF0000;
+}
+
+#aboutUs-header{
+    color: #d399f0;
+    margin-bottom: 0;
+}
+
+.aboutUs-header2{
+    color: #FFA500;
+}
